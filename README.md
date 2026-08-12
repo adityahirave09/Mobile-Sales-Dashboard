@@ -36,7 +36,38 @@ This dashboard solves the problem by providing a visual and interactive reportin
 ## Dataset 
 (https://github.com/adityahirave09/Mobile-Sales-Dashboard/blob/main/Motorola%20Sales%20data.xlsx)
 
+## Dashboard Development Process
+1️.Data Collection
+Imported Excel sales dataset into Power BI.
 
+2️.Data Cleaning (Power Query)
+Removed duplicate records
+Handled missing values
+Corrected data types
+Formatted date columns
+Created Month and Year fields
+
+3️. Data Modeling
+Built relationships between tables
+Created a structured data model for reporting
+
+4️. DAX Calculations
+
+Created measures for:
+
+Total Sales
+Total Quantity
+Total Profit
+Average Sales
+Monthly Growth KPIs
+5️. Dashboard Design
+KPI Cards
+Bar Charts
+Line Charts
+Donut / Pie Charts
+Slicers for dynamic filtering
+Trend analysis visuals
+##Dashboard Link
 
 
 
