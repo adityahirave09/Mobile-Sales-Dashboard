@@ -27,51 +27,75 @@ This dashboard solves the problem by providing a visual and interactive reportin
 
 ## Tools & Technology Used
 
-1.Microsoft Power BI – Dashboard development
-2.Power Query – Data cleaning and transformation
-3.DAX (Data Analysis Expressions) – Measures and calculations
-4.Microsoft Excel – Source dataset preparation
-5.Data Modeling – Creating relationships between tables
+- Microsoft Power BI – Dashboard development
+- Power Query – Data cleaning and transformation
+- DAX (Data Analysis Expressions) – Measures and calculations
+- Microsoft Excel – Source dataset preparation
+- Data Modeling – Creating relationships between tables
 
 ## Dataset 
-(https://github.com/adityahirave09/Mobile-Sales-Dashboard/blob/main/Motorola%20Sales%20data.xlsx)
+- SOURCE - KAGGLE.COM
+- (https://github.com/adityahirave09/Mobile-Sales-Dashboard/blob/main/Motorola%20Sales%20data.xlsx)
 
 ## Dashboard Development Process
-1️.Data Collection
-Imported Excel sales dataset into Power BI.
+1️. Data Collection
+- Imported Excel sales dataset into Power BI.
 
-2️.Data Cleaning (Power Query)
-Removed duplicate records
-Handled missing values
-Corrected data types
-Formatted date columns
-Created Month and Year fields
+2️. Data Cleaning (Power Query)
+- Removed duplicate records
+- Handled missing values
+- Corrected data types
+- Formatted date columns
+- Created Month and Year fields
 
 3️. Data Modeling
-Built relationships between tables
-Created a structured data model for reporting
+- Built relationships between tables
+- Created a structured data model for reporting
 
 4️. DAX Calculations
 
-Created measures for:
+- Created measures for:
 
-Total Sales
-Total Quantity
-Total Profit
-Average Sales
-Monthly Growth KPIs
+- Total Sales
+- Total Quantity
+- Total Profit
+- Average Sales
+- Monthly Growth KPIs
+
 5️. Dashboard Design
-KPI Cards
-Bar Charts
-Line Charts
-Donut / Pie Charts
-Slicers for dynamic filtering
-Trend analysis visuals
-##Dashboard Link
+- KPI Cards
+- Bar Charts
+- Line Charts
+- Donut / Pie Charts
+- Slicers for dynamic filtering
+- Trend analysis visuals
 
+## Dashboard Link
+(https://github.com/adityahirave09/Mobile-Sales-Dashboard/blob/main/Motorola%20Sales%20Dashboard.pbix)
 
+## dashboard 
+<img width="671" height="376" alt="Motorola Sales Dashboard" src="https://github.com/user-attachments/assets/abbfe322-4c8e-4a29-861a-fd0e9f08e0f7" />
 
+## Insights 
 
+- Total Sales reached 253M with 6K units sold and 1K transactions.
+- Delhi generated the highest sales, followed by Mumbai.
+- July showed the highest monthly sales performance (24.5M).
+- UPI was the most preferred payment method among customers.
+- OnePlus was the top-selling brand by units sold.
+- Saturday recorded the highest sales compared to other days.
+- Most customers gave 4-star and 5-star ratings, indicating good customer satisfaction.
+
+## Conclusion
+
+The Motorola Sales Dashboard provides a clear view of sales performance, customer behavior, payment trends, and regional performance. It helps identify top-performing cities, brands, and months, while also highlighting areas with lower sales performance. This dashboard enables quick, data-driven business decisions and supports better planning for sales growth, inventory management, marketing strategies, and customer satisfaction improvement.
+
+## Author
+
+- **Developed By:** Aditya Hirave
+- **Project Title:** Motorola Sales Dashboard
+- **Tool Used:** Power BI, power query , DAX ,
+- **Year:** AUG 2026
 
 
 
