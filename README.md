@@ -24,3 +24,22 @@ Track monthly sales trends and KPIs.
 Make quick business decisions using raw tabular data.
 
 This dashboard solves the problem by providing a visual and interactive reporting solution that allows users to explore sales data efficiently.
+
+## Tools & Technology Used
+Microsoft Power BI – Dashboard development
+Power Query – Data cleaning and transformation
+DAX (Data Analysis Expressions) – Measures and calculations
+Microsoft Excel – Source dataset preparation
+Data Modeling – Creating relationships between tables
+
+
+
+
+
+
+
+
+
+
+
+
